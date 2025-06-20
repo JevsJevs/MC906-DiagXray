@@ -3,3 +3,8 @@ numpy
 scikit-learn
 opencv-python
 jupyterlab
+pillow
+torch
+torchvision
+matplotlib
+tqdm
